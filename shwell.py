@@ -3,7 +3,7 @@ import os
 import pythowo
 
 while True:
-    text = input("(｡･ω･｡)ﾉ♡ > ")
+    text = input(arab> ")
     if text.strip() == "cwear":
         os.system('clear' if os.name == 'posix' else 'cls')
         continue
